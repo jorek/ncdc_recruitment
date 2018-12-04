@@ -1,2 +1,2 @@
-# ncdc_recruitment
-Recruitment tasks for NCDC
+# Recruitment tasks for NCDC
+To be completed by Piotr Jorkowski
